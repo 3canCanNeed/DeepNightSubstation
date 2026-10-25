@@ -1,0 +1,6 @@
+# Godot 4 缓存目录
+.godot/
+
+# 导出产物
+build/
+*.exe
