@@ -4,7 +4,7 @@
 
 ## 运行方式
 
-1. 打开 Godot 4（本机已下载：`D:\coc\Godot_v4.7.2-stable_win64.exe`）
+1. 打开 Godot 4
 2. 「导入」→ 选择本文件夹里的 `project.godot` → 打开工程
 3. 按 **F5**（或右上角 ▶）开始游戏
 
